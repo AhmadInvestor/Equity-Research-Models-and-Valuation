@@ -9,9 +9,9 @@ I publish independent valuations and models covering major Asian pharmaceutical,
 | **Mega First Corporation Berhad** | Utilities | [Report PDF](Tech_Tencent/Tencent_Equity_Report.pdf) | [Valuation Model](Tech_Tencent/Tencent_Valuation_Model.xlsx) |
 
 ## 📁 Personal Portfolio Management
-| Portfolio | Performance | CAGR | Portfolio Summary |
+| Portfolio | Performance | CAGR ||
 |----------|--------|--------|--------|
-| Ahmad's Personal Portfolio | 30% | 30% | [DCF Model] |
+| Ahmad's Personal Portfolio | 30% | 30% | [Portfolio Summary] |
 
 ## 📁 Short Article
 _Disclaimer: All research is for educational purposes only and does not constitute investment advice._
