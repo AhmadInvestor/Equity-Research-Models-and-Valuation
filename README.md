@@ -14,4 +14,6 @@ I publish independent valuations and models covering major Asian pharmaceutical,
 | Ahmad's Personal Portfolio | 30% | 30% |  [Portfolio Summary](Tech_Tencent/Tencent_Equity_Report.pdf) |
 
 ## 📁 Short Article
+
+## 📁 Screener Models
 _Disclaimer: All research is for educational purposes only and does not constitute investment advice._
