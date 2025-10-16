@@ -1,4 +1,4 @@
-# Equity Research and Personal Portfolio Management
+# Equity Research, Financial Modelling and Personal Portfolio Management
 Welcome to my personal equity research repository.  
 I publish independent valuations and models covering major Asian pharmaceutical, technology, and consumer companies.
 
