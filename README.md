@@ -8,4 +8,6 @@ I publish independent valuations and models covering major Asian pharmaceutical,
 | **Chaoju Medical Holdings Limited** | Medical Services | [Report PDF](Pharma_CSPC/CSPC_Equity_Report.pdf) | [DCF Model](Pharma_CSPC/CSPC_Valuation_Model.xlsx) |
 | **Mega First Corporation Berhad** | Utilities | [Report PDF](Tech_Tencent/Tencent_Equity_Report.pdf) | [Valuation Model](Tech_Tencent/Tencent_Valuation_Model.xlsx) |
 
+## 📁 Personal Portfolio Management
+
 _Disclaimer: All research is for educational purposes only and does not constitute investment advice._
