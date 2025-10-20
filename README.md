@@ -17,4 +17,5 @@ I publish independent valuations and models covering major Asian pharmaceutical,
 1. [Ahmad's Personal Valuation](Others/Ahmad's%20Personal%20Valuation.pdf)
 
 ## 📁 Screener Models
+[Screener Models](Others/Quick,%20simple%20models%20and%20valuations.xlsx)
 _Disclaimer: All research is for educational purposes only and does not constitute investment advice._
