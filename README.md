@@ -6,7 +6,7 @@ I publish independent valuations and models covering major Asian pharmaceutical,
 | Company | Industry | Report | Model |
 |----------|--------|--------|--------|
 | **Chaoju Medical Holdings Limited** | Medical Services | [Report PDF](Chaoju%20Medical%20Holdings%20Limited/Chaoju%20Equity%20Research.pdf) | [Valuation Model](Chaoju%20Medical%20Holdings%20Limited/Chaoju%20Model%20and%20Valuation.xlsx) |
-| **Mega First Corporation Berhad** | Utilities | [Report PDF](Tech_Tencent/Tencent_Equity_Report.pdf) | [Valuation Model](MFCB%20models%20and%20valuations.xlsx) |
+| **Mega First Corporation Berhad** | Utilities | [Report PDF](Tech_Tencent/Tencent_Equity_Report.pdf) | [Valuation Model](Mega%20First%20Corporation%20Berhad/MFCB%20models%20and%20valuations.xlsx) |
 
 ## 📁 Personal Portfolio Management
 | Portfolio | Performance | CAGR ||
