@@ -11,7 +11,7 @@ I publish independent valuations and models covering major Asian pharmaceutical,
 ## 📁 Personal Portfolio Management
 | Portfolio | Performance | CAGR ||
 |----------|--------|--------|--------|
-| Ahmad's Personal Portfolio | 30% | 30% |  [Portfolio Summary](Tech_Tencent/Tencent_Equity_Report.pdf) |
+| Ahmad's Personal Portfolio | 30% | 30% |  [Portfolio Summary](Portfolio/Ahmad's%20Portfolio%20Common%20Size.pdf) |
 
 ## 📁 Short Article
 
