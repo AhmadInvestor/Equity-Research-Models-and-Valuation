@@ -14,7 +14,7 @@ I publish independent valuations and models covering major Asian pharmaceutical,
 | Ahmad's Personal Portfolio | 30% | 30% |  [Portfolio Summary](Portfolio/Ahmad's%20Portfolio%20Common%20Size.pdf) |
 
 ## 📁 Short Article
-1. [The Valuation Standard](Others/The%20Valuation%20Standard.pdf)
+1. [Ahmad's Personal Valuation](Others/Ahmad's%20Personal%20Valuation.pdf)
 
 ## 📁 Screener Models
 _Disclaimer: All research is for educational purposes only and does not constitute investment advice._
