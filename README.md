@@ -18,4 +18,5 @@ I publish independent valuations and models covering major Asian pharmaceutical,
 
 ## 📁 Screener Models
 [Screener Models](Others/Quick,%20simple%20models%20and%20valuations.xlsx)
+
 _Disclaimer: All research is for educational purposes only and does not constitute investment advice._
