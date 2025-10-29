@@ -15,8 +15,7 @@ I publish independent valuations and models covering major Asian pharmaceutical,
 
 ## 📁 Short Article
 1. [Ahmad's Personal Valuation](Others/Ahmad's%20Personal%20Valuation.pdf)
-2. [KLCI Cost of Debt Dynamics](Others/Short%20Articles/KLCI%20Cost%20of%20Debt%20Dynamics
-/KLCI%20Cost%20of%20Debt%20Dynamics.pdf)
+2. [KLCI Cost of Debt Dynamics](Others/Short%20Articles/KLCI%20Cost%20of%20Debt%20Dynamics/KLCI%20Cost%20of%20Debt%20Dynamics.pdf)
 
 ## 📁 Screener Models
 [Screener Models](Others/Quick,%20simple%20models%20and%20valuations.xlsx)
